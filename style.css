@@ -89,6 +89,10 @@ h6 {
 	letter-spacing: 5px;
 }
 
+#Bouton2 {
+  margin:2.4em auto;
+}
+
 
 a {
 	text-decoration: none;
@@ -993,6 +997,7 @@ h2 {
 }
 h5 {
     font-size: 1.5em;
+    font-weight:330;
 }
 
 li {
