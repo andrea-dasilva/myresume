@@ -941,14 +941,18 @@ background-position-y: 57%;
 }
 
 h1 {
-  font-size: 1.5em;
-  padding-top: 10%;
+  font-size: 1.2em;
+  padding-top: 5%;
+margin-left: 2em;
 
 }
 
 .bannerimage {
-  padding: 5% auto;
-    padding: 9% 0;
+    padding: 12% 0;
+    widht : 115%;
+    position: relative;
+right: 15%;
+padding-top: 5em;
 }
 
 .card {
@@ -1138,9 +1142,6 @@ li {
   width:100%;
 }
 
-h1 {
-  font-size: 1em;
-}
 
 .btn-purple {
   font-size: 0.8em;
