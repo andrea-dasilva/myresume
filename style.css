@@ -941,18 +941,15 @@ background-position-y: 57%;
 }
 
 h1 {
-  font-size: 1.2em;
+  font-size: 1.4em;
   padding-top: 5%;
-margin-left: 2em;
+margin-left: 1em;
 
 }
 
 .bannerimage {
     padding: 12% 0;
-    widht : 115%;
-    position: relative;
-right: 15%;
-padding-top: 5em;
+
 }
 
 .card {
