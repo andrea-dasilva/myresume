@@ -810,21 +810,23 @@ margin: 3px;
   }
 }
 
-
-.footer-info {
+.footer {
+  text-align: center;
   letter-spacing: 1.5px;
-  font-size:0.75em;
-    padding: 20px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
-    text-align: center; 
+  font-size:11px;
+  padding:10px;
+  font-family: 'Ubuntu', sans-serif;
+  color:#094956;
 }
 
-#container-footer {
-
-    padding: 20px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
-    text-align: center;  
-    }
+.footer {
+  text-align: center;
+  letter-spacing: 1.5px;
+  font-size:11px;
+  padding:7px;
+  font-family: 'Ubuntu', sans-serif;
+  color:#094956;
+}
 
 
 
