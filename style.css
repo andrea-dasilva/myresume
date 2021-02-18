@@ -20,15 +20,16 @@ body {
 
 .bannerimage {
 	background-image: url(images/banner.png);
-	background-position: 16%;
+background-position: 55%;
     background-position-y: center;
-padding: 13% 0;
-background-size: 120%;
+background-position-y: center;
+padding: 16% 0;
+background-size: 160%;
 margin: 0em auto;
 margin: none;
-background-position-y: 60%;
+background-position-y: 85%;
 margin-bottom: none;
-box-shadow: 0 0 25px 25px #f4f6ff inset;
+box-shadow: 0 0 35px 35px #f4f6ff inset;
 }
 
 
@@ -45,7 +46,7 @@ h1 {
 	font-weight: lighter;
 	letter-spacing: 1px;
 	padding-top: -10%;
-	padding-left: 1.5em;
+	padding-left: 1.2em;
 padding-right: 35%;
 
   font-family: 'ovo', serif;
@@ -919,16 +920,17 @@ background-position-y: 57%;
 
 
   .bannerimage {
- box-shadow: 0 0 22px 22px #f4f6ff inset;
-background-position: 54%;
+box-shadow: 0 0 32px 32px #f4f6ff inset;
+background-position: 53%;
     background-position-y: center;
+background-position-y: center;
 background-position-y: center;
 background-position-y: center;
 padding: 13% 0;
 background-size: 165%;
 margin: 0em auto;
 margin: none;
-background-position-y: 64%;
+background-position-y: 88%;
 padding: 14% 0;
 }
 
@@ -944,13 +946,22 @@ padding: 14% 0;
 }
 
 h1 {
-	font-size: 1.2em;
-margin-bottom: 0;
-margin-top: 2.5em;
+font-size: 1.9em;
 }
 
 .bannerimage {
-    padding: 12% 0;
+    padding: 12% box-shadow: 0 0 32px 32px #f4f6ff inset;
+background-position: 59%;
+    background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-size: 177%;
+margin: 0em auto;
+margin: none;
+background-position-y: 83%;
+padding: 12% 0 10% 0;
 
 }
 
@@ -981,6 +992,21 @@ font-size: 0.8em;
 .body{
     width: 98%;
 }
+	
+.bannerimage {
+    padding: 12% box-shadow: 0 0 32px 32px #f4f6ff inset;
+background-position: 50%;
+    background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-size: 179%;
+margin: 0em auto;
+margin: none;
+background-position-y: 87%;
+padding: 25% 0 10% 0;
+	}
 
 .card-white {
   padding: 20px 30px 20px 30px;
@@ -991,7 +1017,7 @@ h4 {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 1.2em;
 
 }
 
@@ -1086,13 +1112,30 @@ i {
     width: 98%;
 
 }
-
-
+.bannerimage {
+box-shadow: 0 0 32px 32px #f4f6ff inset;
+background-position: 59%;
+    background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+background-position-y: center;
+padding: 13% 0;
+background-size: 175%;
+margin: 0em auto;
+margin: none;
+background-position-y: 82%;
+padding: 8% 0;
+	}
 
 p {
   font-size: 0.8em;
 }
-
+	
+h1 {
+font-size: 1.3em;
+padding-top: 1.6em;
+	}
 h2 {
   font-size:1.5em;
 }
