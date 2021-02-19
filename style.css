@@ -27,7 +27,7 @@ padding: 16% 0;
 background-size: 160%;
 margin: 0em auto;
 margin: none;
-background-position-y: 80%;
+background-position-y: 88%;
 margin-bottom: none;
 box-shadow: 0 0 35px 35px #f4f6ff inset;
 }
@@ -239,7 +239,7 @@ justify-content: justify;
 
 .c-span-grid {
 
-display: inline flex;
+display: flex;
 flex-wrap: wrap;
 flex: 0 1 200px;
 flex-grow: 1;
