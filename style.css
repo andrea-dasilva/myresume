@@ -178,6 +178,14 @@ i {
 
 		}
 
+.containerprojets {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2% 1% 2% 1%;
+margin-bottom: 80px;
+}
+
+
 .btn-purple {
 	background-color: #094956;
 	color: white;
@@ -353,6 +361,28 @@ padding: 0 2% 6% 2%;
 .grid4:hover .info,
 .grid4:hover .info:before {
   transform: translateY(0) translateZ(0);
+}
+
+
+.cardprojet {
+  background-color: rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-basis: 250px;
+  flex-grow: 1;
+  margin: 3px;
+  width:500px;
+  flex-direction: column;
+  border-radius: 4px;
+
+}
+.cardprojet img {
+  width: 100%;
+}
+
+.pprojets {
+  margin:0.5em 1em;
 }
 
 .card-cake {
@@ -653,7 +683,7 @@ float: right;
   text-align: center;
   padding: 2em 16px;
   text-decoration: none;
-  font-size: 0.75em;
+  font-size: 0.65em;
   font-weight: 400;
   color:#094956;
 }
